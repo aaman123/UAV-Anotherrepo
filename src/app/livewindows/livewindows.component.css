@@ -1,0 +1,125 @@
+@media only-screen and (min-width: 500px) and (max-width: 800px) {
+  .col-md {
+    width: 700px;
+    height: 340px;;
+  }
+}
+
+.Main-wrapper {
+  width: 100%;
+  margin-top : 2%;
+  padding: 0;
+  height: 20%;
+  background-color: black
+}
+
+
+
+
+
+.button-wrapper
+{
+  margin-left: 20px;
+  font-size: 12px;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+
+
+
+
+.col1-wrapper {
+  margin-right: 10px;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+.col2-wrapper {
+
+  padding-right: 5%;
+  padding-left: 5%;
+  width: 5%;
+}
+
+
+
+
+
+
+
+.label1 {
+  margin: 2%;
+}
+
+
+
+.firstsection {
+  margin: 20px;
+}
+
+.select1 {
+  margin-left: 25px;
+  width: 100px;
+  border-radius:  10px;
+}
+
+.label2 {
+  margin-left: 5%;
+
+}
+
+.select2 {
+  margin-left:25px;
+  width: 100px;
+
+  border-radius:  10px;
+}
+
+.label3{
+
+  margin-left: 1%;
+
+}
+
+.select3{
+  margin-left: 25px;
+  width: 100px;
+  border-radius:  10px;
+}
+
+.label4{
+  margin-left: 8%;
+}
+
+.select4{
+  margin-left: 28px;
+  width: 100px;
+  border-radius:  10px;
+}
+
+
+.videoclass {
+  display: inline-block;
+  margin: 0;
+}
+
+.side-container {
+  height: 75%;
+  border: 1px solid white;
+  width: 20%;
+  float: left;
+  background-color: black
+}
+
+.firstrow {
+  height:35%
+}
+
+.secondrow {
+  height: 35%;
+}
+
+
+.grid-container {
+  background-color: black
+}

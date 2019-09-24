@@ -1,0 +1,14 @@
+<ac-layer acFor="let plane of planes$"  [context]="this">
+  <ac-billboard-desc props="{
+      image: plane.image,
+      position: plane.position
+  }">
+  </ac-billboard-desc>
+
+  <ac-label-desc props="{
+      position: plane.position,
+      text: plane.name,
+      color: getColor(plane)
+  }">
+  </ac-label-desc>
+</ac-layer>
